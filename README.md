@@ -11,4 +11,4 @@ Improvements:
   - Full documentation with step-by-step instructions in the docs/README.md
   - A frontend to backend extension task
   - The Node.js version has documented both Node.js and Python SQL data migration to frontend implementations.
-  - A completed **-source** version for teachers to test and demo the application and a ready-to-implement **-template** version for students that auto-configures VSCode; all versions have detailed step-by-step documentation for students to follow.
+  - A pre-completed **-source** version for teachers to test and demo the application and a **-template** version for students that auto-configures VSCode ready to start coding.
