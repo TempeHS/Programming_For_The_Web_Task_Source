@@ -1,11 +1,14 @@
 # Programming_For_The_Web_Task_Source
-The project has been forked. There are now two flavours, each with more detailed step-by-step instructions for students, using the README.md for easy copying of code snippets.
+The project has been forked. There are now two flavours, each with more detailed step-by-step instructions for students, using the docs/README.md for easy copying of code snippets.
 1. Python-based Flask PWA with SQLite3 database and BASH instructions.
   - [Source](https://github.com/TempeHS/Flask_PWA_Programming_For_The_Web_Task_Source) for teachers
-  - [Student template & instructions](https://github.com/TempeHS/Flask_PWA_Programming_For_The_Web_Task_Template)
+  - [Student template](https://github.com/TempeHS/Flask_PWA_Programming_For_The_Web_Task_Template)
 2. Node.js-based PWA with SQlite3 database and BASH instructions.
   - [Source](https://github.com/TempeHS/NodeJS_PWA_Programming_For_The_Web_Task_Source) for teachers
-  - [Student template & instructions](https://github.com/TempeHS/NodeJS_PWA_Programming_For_The_Web_Task_Template)
+  - [Student template](https://github.com/TempeHS/NodeJS_PWA_Programming_For_The_Web_Task_Template)
 
-> [!WARNING]
-> Node.JS version README.md is still under development and the expected eta Monday, 30/9/24 the documentation.docx will remain in the repo until then
+Improvements:
+  - Full documentation with step-by-step instructions in the docs/README.md
+  - A frontend to backend extension task
+  - The Node.js version has documented both Node.js and Python SQL data migration to frontend implementations.
+  - A completed **-source** version for teachers to test and demo the application and a ready-to-implement **-template** version for students that auto-configures VSCode; all versions have detailed step-by-step documentation for students to follow.
